@@ -45,7 +45,7 @@ Bu proje, Docker ile paketlendiği için kurulumu son derece basittir. Tek gerek
 
 1. **Projeyi Klonlayın:**
 ```bash
-git clone https://github.com/senin-kullanici-adin/bilet-satin-alma.git
+git clone https://github.com/enstalha/bilet-satin-alma.git
 cd bilet-satin-alma
 ```
 
